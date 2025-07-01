@@ -31,7 +31,7 @@ This folder includes:
 ## Certificate Link
 
 You can view the official certification on FreeCodeCamp here:  
-[FreeCodeCamp Data Analysis with Python Certificate]][https://www.freecodecamp.org/certification/fccdb787169-d8a6-45c0-9774-a5aa15166771/data-analysis-with-python-v7]
+[FreeCodeCamp Data Analysis with Python Certificate](https://www.freecodecamp.org/certification/fccdb787169-d8a6-45c0-9774-a5aa15166771/data-analysis-with-python-v7)
 
 ---
 
